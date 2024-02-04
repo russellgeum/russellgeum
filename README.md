@@ -1,5 +1,5 @@
 # Hi there 👋
-## About Me:
+## E-mail:
 - oppenheimer1223@outlook.com  
 ## Interests:
 - Deep Learning Compression  
