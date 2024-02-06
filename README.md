@@ -1,6 +1,7 @@
 # Hi there 👋
-## E-mail:
-- oppenheimer1223@outlook.com  
+## E-mail, BLOG
+- oppenheimer1223@outlook.com
+- https://russellgeum.github.io  
 ## Interests:
 - Deep Learning Compression  
 - Deep Learning Inference Optimization
